@@ -1,0 +1,181 @@
+body{
+    background:#B2BAB;
+    margin-right:5;
+    margin-left:5;
+    padding:0;
+    
+}
+.ca{
+    transform: rotate(180deg);
+    margin-left:0;
+    float:left;
+}
+.heading{
+    float:left;
+    font-size:50px;
+    width:40%;
+   
+    font-family: 'Balsamiq Sans', cursive;
+    margin-top:50px;
+    margin-bottom:20px;
+
+}
+.headhead{
+    text-align: center;
+    margin-top:0;
+    padding:0;
+    
+}
+
+.cd{
+    position:absolute;
+    right:0;
+    top:20;
+}
+.cb{
+    
+    margin-right:0px;
+    margin-top:0;
+    transform: rotate(270deg);
+}
+.a,.b{
+    font-size:80px;
+}
+
+nav ul{
+    margin:0;
+    padding:0;
+    background:#0D0D0D;
+    overflow:hidden;
+    margin-bottom:5px;
+    margin-top:0;
+    
+    
+}
+.navitem{
+    width: 100%;
+   
+    margin-top:0;
+}
+   
+nav ul li{
+   float:left;
+    list-style-type: none;
+    
+}
+ nav ul li  a{
+    color:white;
+     text-decoration: none;
+     text-transform: capitalize;
+     padding:12px 16px;
+     display:inline-block;
+   
+}
+ nav li:hover{
+    background:red;
+}
+
+nav .hello{
+    color:bisque;
+}
+.description{
+    margin-top:100px;
+}
+.a1{
+    font-weight: bold;
+    font-size:40px;
+    color:red;
+    position:absolute;
+    left:0;
+}
+.a2{
+    font-size:25px;
+    color:yellowgreen;
+}
+.a3{
+    font-size:30px;
+    color:Green;
+    
+}
+.a4{
+    color:Red;
+    font-size:30px;
+    
+}
+.k{
+    font-size:170%;
+}
+.s{
+    font-size:10px;
+    color:gray;
+}
+.a5{
+    color:Black;;
+    background: yellow;
+}
+.a6{
+    font-size:32px;
+    color:Green;
+}
+.a7{
+    font-size:35px;
+    color:red;
+}
+.image img {
+    display:block;
+    width:400px;
+    margin:0 auto;
+}
+.a10{
+    text-align: center;
+    font-size:40px;
+    font-weight: bold;
+    font-family: 'Lobster', cursive;
+
+}
+.description{
+   font-family: 'Overpass', sans-serif;
+}
+.a11 a img{
+    width:40px;
+    margin-right:10px
+}
+.a12 a img{
+    width:40px;
+}
+
+
+.a11 a img {
+    
+     display:block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom:5px;
+}
+.a12 a img{ 
+     display:block;
+    margin-right: auto;
+    margin-left: auto;
+   
+
+}
+.a11 a img:hover{
+    width:43px;
+}
+.a12, a img:hover{
+    width:43px;
+}
+.image img:hover{
+    box-shadow:5px 10px 18px #888888;
+}
+.imagesujosh img{
+    width:40px;
+    display:block;
+    margin-right:3%;
+    margin-left:97%;
+    margin-top:-6%;
+    position:fixed;
+}
+.description{
+    text-align:justify;
+}

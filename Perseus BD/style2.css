@@ -1,0 +1,123 @@
+body{
+    margin:5;
+    padding:0;
+    background-image: url(back.jpg);
+}
+nav ul{
+    
+    padding:0;
+    background:#0D0D0D;
+    overflow:hidden;
+   
+}
+
+
+nav ul li{
+   float:left;
+    list-style-type: none;
+}
+ nav ul li  a{
+    color:white;
+     text-decoration: none;
+     text-transform: capitalize;
+     padding:12px 16px;
+     display:inline-block;
+    
+}
+ nav li:hover{
+    background:red;
+}
+nav .hello1{
+    color:bisque;
+}
+
+.arna .arnaimg img{
+    width:300px;
+    height:400px;
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+   
+}
+.arna h1,h3{
+    text-align: center;
+    font-weight: bold;
+}
+.arna h1{
+    font-size: 30px;
+}
+.arnaheader{
+    line-height:50%;
+}
+.arnaicon img{
+    width:50px;
+    height: 50px;
+      display:block;
+    margin-left:auto;
+    margin-right: auto;
+}
+.arna{
+    border:1px solid black;
+    padding:10px 10px;
+    border-width:2px;
+    width:40%;
+    margin:auto;
+    border-radius:10%;
+}
+.mama .mamaimg img{
+    width:300px;
+    height:400px;
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+}
+.mama h1,h3{
+    text-align:center;
+    font-weight: bold;
+}
+.mama h1{
+    font-size: 30px;
+}
+.mamaheader{
+line-height:50%;
+}
+.mamaicon .icon1 img{
+    width:50px;
+    height:50px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: 5px;
+    
+    
+    
+    
+    
+}
+.mamaicon .icon2 img{
+    width:50px;
+    height:50px;
+    display:block;
+    margin-left:auto;
+    margin-right: auto;   
+
+    
+}
+.mama{
+    border:1px solid black;
+    padding:15px 0;
+    border-width:2px;
+    width:40%;
+    margin:auto;
+    border-radius:10%;
+    
+    
+}
+.mamaicon a img:hover{
+       width:53px;
+    height: 53px;
+}
+.arnaicon a img:hover{
+      width:53px;
+    height: 53px;   
+}
